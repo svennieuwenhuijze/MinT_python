@@ -1,0 +1,4 @@
+# Define the folders you do not want to upload to github
+*.pylint.d
+*.spyproject
+

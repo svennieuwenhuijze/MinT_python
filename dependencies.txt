@@ -1,0 +1,20 @@
+"""
+Created on Wed Apr  8 08:16:05 2020
+
+@author: svenn
+"""
+
+Python packages
+python == ....
+pandas == ....
+numpy  == ....
+scipy == ....
+statsmodels == ...
+rpy2 == ... #Package which allows you to use r libraries and functionalities in python
+tzlocal = ..
+more_itertools = ...
+
+R packages
+hts == ... #Very important that your rpy2 knows where to find this package
+
+
