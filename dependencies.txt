@@ -1,20 +1,9 @@
-"""
-Created on Wed Apr  8 08:16:05 2020
+Required python packages
 
-@author: svenn
-"""
-
-Python packages
-python == ....
-pandas == ....
-numpy  == ....
-scipy == ....
-statsmodels == ...
-rpy2 == ... #Package which allows you to use r libraries and functionalities in python
-tzlocal = ..
-more_itertools = ...
-
-R packages
-hts == ... #Very important that your rpy2 knows where to find this package
-
-
+tzlocal==2.0.0
+statsmodels==0.11.0
+scipy==1.4.1
+rpy2==2.9.4
+numpy==1.18.1
+pandas==1.0.3
+more-itertools==8.2.0

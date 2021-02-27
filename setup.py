@@ -1,19 +1,12 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Apr  7 19:48:57 2020
-
-@author: svenn
-"""
-
 from setuptools import setup, find_packages
 
 
 # Package meta-data.
 NAME = 'Multivariate_fc'
-DESCRIPTION = 'Honeycomb multivariate forecast.'
-URL = 'https://bitbucket.org/eyeon/multi_fc'
-EMAIL = 'info@eyeon.nl'
-AUTHOR = 'EyeOn'
+DESCRIPTION = 'multivariate forecast.'
+URL = '...'
+EMAIL = '...'
+AUTHOR = '...'
 REQUIRES_PYTHON = '>=3.5.0'
 VERSION = (0, 1, 0)
 
